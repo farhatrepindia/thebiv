@@ -1,12 +1,8 @@
-
-
-
-         <div  id="footer">
+<div  id="footer">
    <div class="container-fluid">
       <div class="footer_menu">
          <div class="row">
-        
-        <div class="col-sm-4 col-xs-6 col-6 w-50">
+            <div class="col-sm-12 col-md-4 col-lg-4 col-12">
                <div class="menu-footer-menu">
                   <ul>
                      <li><a href="javascript:void(0);">Address <span>1784 TIMBER OAK DRIVE</span></a></li>
@@ -15,13 +11,12 @@
                   </ul>
                </div>
             </div>
-
-            <div class="col-sm-4 col-xs-6 col-6 w-50">
+            <div class="col-sm-12 col-md-5 col-lg-4 col-12">
                <div class="menu-footer-menu">
- <form class="example-field" action="/action_page.php">
-  <input type="text" placeholder="Search.." name="search2">
-  <button type="submit">Submit</button>
-</form>
+                  <form class="example-field">
+                     <input type="text" placeholder="Search.." name="search2">
+                     <button type="submit">Submit</button>
+                  </form>
                   <ul class="social-menu">
                      <li><a href="javascript:void(0);"><i class="fab fa-instagram"></i></a></li>
                      <li><a href="javascript:void(0);"><i class="fab fa-facebook-f"></i></a></li>
@@ -30,17 +25,15 @@
                   </ul>
                </div>
             </div>
-
             <!-- <div class="clearfix visible-xs"></div> -->
-            <div class=" col-sm-4 col-xs-6  col-6 w-100">
+            <div class=" col-sm-12 col-md-3 col-lg-4  col-12">
                <div class="menu-footer-menu">
-                  <ul>
+                  <ul class="right-foot">
                      <li><a href="javascript:void(0);"><span>©The BIV 2021</span></a></li>
-                </ul>
+                  </ul>
                </div>
-               </div>
-
             </div>
          </div>
       </div>
-</div>      
+   </div>
+</div>
